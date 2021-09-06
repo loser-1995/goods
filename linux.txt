@@ -1,0 +1,5 @@
+1) Windows Store: Ubuntu / Arch
+2) WSL: turn on
+3) Windows Terminal
+
+Node.js
